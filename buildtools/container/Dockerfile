@@ -1,4 +1,4 @@
-FROM ubuntu:latest
+FROM ubuntu:24.10
 
 # Install dependencies: curl, git, jq, python2 and jre8.
 RUN apt-get update && \
