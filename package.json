@@ -61,7 +61,7 @@
     "chromedriver": "^119.0.1"
   },
   "dependencies": {
-    "dialog-polyfill": "^0.4.7",
+    "dialog-polyfill": "^0.5.6",
     "material-design-lite": "^1.2.0"
   },
   "peerDependencies": {
